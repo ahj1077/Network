@@ -16,7 +16,7 @@
   
   ## TCP 헤더
   
-  ![TCP HEADER](C:\Users\AN\Desktop\215E874552342E7319.jpg)
+  ![TCP HEADER](./img/TCP_header.jpg)
   
   
   
@@ -36,6 +36,6 @@
   
   ## UDP 헤더
   
-  ![UDP HEADER](C:\Users\AN\Desktop\UDP_header.jpg)
+  ![UDP HEADER](./img/UDP_header.jpg)
 
   
