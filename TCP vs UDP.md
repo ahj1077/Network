@@ -3,6 +3,7 @@
   
   전송계층 프로토콜 중 하나. IP 프로토콜이 데이터를 전달한다면 TCP는 데이터의 전송을 담당한다.
   
+  
   ## TCP 특징
   
   - 연결지향 프로토콜로, 중간에 데이터가 소멸되지 않고 목적지로 전송된다.
@@ -36,6 +37,6 @@
   
   ## UDP 헤더
   
-  ![UDP HEADER](./img/UDP_header.jpg)
+  ![UDP HEADER](./img/UDP_header.png)
 
   
